@@ -26,3 +26,10 @@ Just like the skeleton, HTML gives the website:
 ###Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
 
 Yes, I'm familiar with CSS. CSS stands for Cascading Style Sheets, and it's used in web development to style the  elements. The “cascading” part of its name refers to how styles are inherited and applied to different elements on a web page based on their relationship to each other in the HTML document. Styles can be applied to a parent element, which will be passed down to its child elements.
+
+
+#Section 3: JavaScript and Its Importance
+##Introduction to JavaScript:
+###Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
+
+Yes, I'm quite familiar with JavaScript. JavaScript is a versatile programming language commonly used in web development for creating interactive and dynamic features on websites. Unlike HTML and CSS, which primarily handle the structure and presentation of web pages, JavaScript adds functionality and behavior to web pages. This allows for real-time interactions and updates without needing to reload the entire web page. e.g We can use a  click event on an HTML button to  detect when the button is clicked and then run a particular code that updates the button color.
