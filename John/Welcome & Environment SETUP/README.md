@@ -33,3 +33,10 @@ Yes, I'm familiar with CSS. CSS stands for Cascading Style Sheets, and it's used
 ###Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
 
 Yes, I'm quite familiar with JavaScript. JavaScript is a versatile programming language commonly used in web development for creating interactive and dynamic features on websites. Unlike HTML and CSS, which primarily handle the structure and presentation of web pages, JavaScript adds functionality and behavior to web pages. This allows for real-time interactions and updates without needing to reload the entire web page. e.g We can use a  click event on an HTML button to  detect when the button is clicked and then run a particular code that updates the button color.
+
+
+#Section 4: Introduction to React and Node.js
+##React and Node.js Awareness:
+###Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
+
+ReactJS and NodeJS are both JavaScript technologies. But the uses of NodeJS and ReactJS are entirely different. NodeJS is a framework of JavaScript which is mainly used for working with the backend of our application or building the backend using JavaScript, whereas ReactJS is a JavaScript front-end library. It is mainly used for building the user interface or the frontend of our application.
