@@ -19,3 +19,10 @@ Just like the skeleton, HTML gives the website:
     *Framework for Structure - It defines the basic structure and layout of content on a webpage.
     *Supports and Organises Content - supports and organises the content of a webpage. It provides the structure that holds together text, images, videos, forms, and other media elements.
     *Connects and Interacts - just as the skeleton allows for movement and interaction within the body, HTML enables interaction and navigation within a webpage.
+
+
+#Section 2: Familiarity with CSS
+##CSS Understanding:
+###Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+
+Yes, I'm familiar with CSS. CSS stands for Cascading Style Sheets, and it's used in web development to style the  elements. The “cascading” part of its name refers to how styles are inherited and applied to different elements on a web page based on their relationship to each other in the HTML document. Styles can be applied to a parent element, which will be passed down to its child elements.
