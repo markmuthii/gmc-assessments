@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>amike</title>
+</head>
+<body>
+	<!-- This is my header -->
+    <header>
+		<!-- portfolio logo -->
+        <img src="amike.jpg" alt="my logo">
+
+		<!-- this are nav links to help in page navigation -->
+        <nav>
+            <ul>
+				<li>
+					<a href="#home">Home</a>
+				</li>
+                <li>
+					<a href="#about">About Me</a>
+				</li>
+                <li>
+					<a href="#work">Work</a>
+				</li>
+                <li>
+					<a href="#resume">Resume</a>
+				</li>
+				<li>
+					<a href="#contact">Contact</a>
+				</li>
+            </ul>
+        </nav>
+    </header>
+     
+	<!-- About section -->
+    <section id="about">
+		<article>
+			<!-- unorderered list with links to my social media -->
+			<ul>
+				<li>
+					<a href="https://www.facebook.com/YourPageOrProfileName"> <img src="facebook.jpg" alt="facebook logo"></a>
+				</li>
+				<li>
+					<a href="https://www.x.com/YourPageOrProfileName"> <img src="x.jpg" alt="x logo"></a>
+				</li>
+				<li>
+					<a href="https://www.pinterest.com/YourPageOrProfileName"> <img src="pinterest.jpg" alt="pinterest logo"></a>
+				</li>
+				<li>
+					<a href="https://www.instagram.com/YourPageOrProfileName"> <img src="instagram.jpg" alt="instagram logo"></a>
+				</li>
+				<li>
+					<a href="https://www.behance.com/YourPageOrProfileName"> <img src="behance.jpg" alt="behance logo"></a>
+				</li>
+			</ul>
+
+			<!-- About header -->
+			<h2>About</h2>
+
+			<p>I am jonathan Doe</p>
+
+			<!-- link to portfolio page -->
+			<a href="#portfolio">My Portfolio</a>
+
+			<!-- link to my youtube chanell -->
+			<a href="#portfolio">
+				<img src="youtube.jpg" alt="Youtube logo">
+			</a>
+
+		</article>
+		<aside>
+			<img src="image.jpg" alt="Jonathan Doe image">
+		</aside>
+    </section>
+
+
+    <!-- portfolio sectiom -->
+    <section id="portfolio">
+
+        <h2>Portfolio</h2>
+        <article>
+            <h3>Project 1</h3>
+            <p>Description of Project 1.</p>
+            <video controls>
+                <source src="project1.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </article>
+        <article>
+            <h3>Project 2</h3>
+            <p>Description of Project 2.</p>
+            <audio controls>
+                <source src="project2.mp3" type="audio/mpeg">
+                Your browser does not support the audio tag.
+            </audio>
+        </article>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <form action="submit.php" method="post">
+            <label for="name">Name:</label><br>
+            <input type="text" id="name" name="name"><br>
+            <label for="email">Email:</label><br>
+            <input type="email" id="email" name="email"><br>
+            <label for="message">Message:</label><br>
+            <textarea id="message" name="message" rows="4" cols="50"></textarea><br>
+            <input type="submit" value="Submit">
+        </form>
+    </section>
+    
+    <footer>
+		<p>&copy; 2024 my portfolio</p>
+    </footer>
+</body>
+</html>
