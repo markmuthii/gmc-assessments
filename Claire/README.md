@@ -1,1 +1,2 @@
 # Write a brief introduction of who you are in this file
+My name is Claire Wanjiru.I am an aspiring software engineer who recently enrolled to a software development bootcamp at Gomycode.I hope to learn and understand programming languages in order to build projects that resolve daily challenges.
