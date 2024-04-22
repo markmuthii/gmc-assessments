@@ -1,0 +1,49 @@
+
+body{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: peachpuff;
+}
+header{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
+nav ul{ 
+    list-style-type: square;
+}
+nav ul li{
+display: inline;
+}
+nav ul li a{
+    color: crimson;
+    text-decoration: double;
+}
+section{
+    text-align: center;
+}
+footer{
+    background-color: aqua;
+    color: azure;
+    text-align: center;
+}
+
+/*form styles*/
+form{
+    background-color: aliceblue;
+}
+label{
+    display: block;
+    color: azure;
+}
+input[type="text"],{
+    
+}
+input[type="email"]{
+
+},
+input[type="submit"],{
+    cursor: pointer;
+}
+input[type="submit"]:hover{
+    background-color: azure;
+}
