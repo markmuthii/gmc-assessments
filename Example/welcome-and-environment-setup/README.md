@@ -23,4 +23,4 @@
 
 6. Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
 
-- It has always been my dream to be a software developer ever  since i was in highschool, with the skills i achieve it will help advance my career and also help me in improving my projects  from just using basic skills  in development.
+- It has always been my dream to be a software developer ever  since i was in highschool, with the skills i achieve at GOMYCODE  it will help advance my career and also help me in improving my projects  from just using basic skills  in development.
