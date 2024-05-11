@@ -19,7 +19,7 @@
 
 5. Are you familiar with React and Node.js? If yes, provide a brief description of what React and Node.js are commonly used for in web development.
 
-- Yes. React is a front-end development open-source JavaScript library used to create user interface (UI) components.React is used for ecommerce websites , social networking platforms e.t.c Node Js s an open-source, cross-platform library and runtime environment. It’s majorly used to run applications outside the client browser.It is commonly used in streaming web apps.
+- Yes. React is a front-end development open-source JavaScript library used to create user interface (UI) components.React is used for E-commerce  websites , social networking platforms e.t.c Node Js s an open-source, cross-platform library and runtime environment. It’s majorly used to run applications outside the client browser.It is commonly used in streaming web apps.
 
 6. Why do you want to learn web development, and what do you hope to achieve by acquiring skills in HTML, CSS, JavaScript, React, and Node.js?
 
