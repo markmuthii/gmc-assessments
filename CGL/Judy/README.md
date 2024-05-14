@@ -1,1 +1,2 @@
 # Write a brief introduction of who you are in this file
+Hello! I am Judy Kagia, an IT graduate with a passion for technology. I am expanding my skills as a software developer student at GOMYCODE, immersing myself in coding and software engineering. With a keen interest in emerging technologies and a drive to innovate, I am always eager to explore new advancements in the tech industry. I am dedicated to continuous learning and growth in this dynamic field, from programming languages to cutting-edge software development methodologies.
