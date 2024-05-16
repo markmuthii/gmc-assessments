@@ -1,2 +1,2 @@
 # Write a brief introduction of who you are in this file
-My name is James Kiprop, a Full Stack Software Development student at GOMYCODE Kenya and a Tech enthusiast. My main inspiration as to why I chose to partake this path is because I am fascinated with how AI has  made tremendous and impactfu changes in the current world that we live in and I want to be part of the AI revolution and not just to witness it.
+My name is James Kiprop, a Full Stack Software Development student at GOMYCODE Kenya and a Tech enthusiast. My main inspiration as to why I chose to partake this path is because I am fascinated with how AI has  made tremendous and impactful changes in the current world that we live in and I want to be part of the AI revolution and not just to witness it happening.

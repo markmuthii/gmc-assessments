@@ -6,11 +6,11 @@
 
 2. Have you heard of HTML? If yes, what does HTML stand for, and what is its primary purpose in web development?
 
-- HTML stands for Hypertext Markup Language and its primary purpose and serves the purpose of structuring up the content of a webpage.
+- HTML stands for Hypertext Markup Language and serves the purpose of structuring up the content of a webpage.
 
-3. Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
+1. Are you familiar with CSS? If yes, briefly explain what CSS is used for in web development.
 
-- CSS stands for Cascading Style Sheets and its primary purpose is to style up, structuring and defining a web page.
+- CSS stands for Cascading Style Sheets and its primary purpose is to style up, structure and define a web page.
 
 4. Have you heard of JavaScript? If yes, what is JavaScript, and why is it crucial for building interactive websites?
 
